@@ -9,5 +9,5 @@
 #### Avoid the traffic flow. You will have to start over again if you get hit by a car.
 #### Cross the road three times as fast as you can. The total time cost will be displayed on the 7 segment display.
 
-<img src="gamescene.jpg" alt="Game Scene" width="200"/>
-<img src="block_diagram.jpg" alt="Block Diagram" width="200"/>
+<img src="gamescene.jpg" alt="Game Scene" width="500"/>
+<img src="block_diagram.jpg" alt="Block Diagram" width="500"/>
