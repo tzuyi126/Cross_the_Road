@@ -1,7 +1,7 @@
 # Cross the Road
 
 ### Hardware Design and Lab (by professor Chun-Yi Lee)
-#### 張子宜、盧悅心
+#### designed by 張子宜、盧悅心
 ##### A game designed by Verilog.
 
 ## Introduction
