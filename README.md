@@ -1,8 +1,8 @@
 # Cross the Road
 
-### Hardware Design and Lab (by professor Chun-Yi Lee)
-#### designed by 張子宜、盧悅心
-##### A game designed by Verilog.
+## Hardware Design and Lab (by professor Chun-Yi Lee)
+### designed by 張子宜、盧悅心
+#### A game designed by Verilog.
 
 ## Introduction
 #### You are a green block trying to cross the road and get to the other side.
